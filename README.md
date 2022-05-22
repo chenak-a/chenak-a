@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Chenak</h1>
 <h3 align="center">Curious and passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenak-a&label=Profile%20views&color=0e75b6&style=flat" alt="chenak-a" /> </p>
-
 - 🔭 I’m currently working on [CryptoStoreAI](https://github.com/chenak-a/CryptoStoreAI)
 
 - 🌱 I’m currently learning **Kubernetes**
