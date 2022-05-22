@@ -1,7 +1,7 @@
 
 ![MasterHead](https://debarshiray.files.wordpress.com/2021/11/toolbox-power-up-wide-1.gif)
-<h1 align="center">Hi 👋, I'm Chenak</h1>
-<h3 align="center">Curious and passionate developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="left"> My name is Chenak, I’m a software developer/DevOps engineer from Montreal Canada </h3>
 
 - 🔭 I’m currently working on [CryptoStoreAI](https://github.com/chenak-a/CryptoStoreAI)
 
