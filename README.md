@@ -10,20 +10,19 @@
 
 - 💬 Ask me about **C++ , python**
 
-- 📫 How to reach me **chenak.alaa1@gmail.com**
-
 
 - 📄 Know about my experiences [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8)
 
 - ⚡ let's have some fun **...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 How to reach me:</h3>
 
  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-ch-422454233/)
- 
+ [![Documentation Status](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](chenak.alaa1@gmail.com)
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left"> 🐱‍💻 Languages and Tools:</h3>
 <p>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -59,7 +58,7 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
-
+<h3 align="left"> 📈 Analytics : </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenak-a&show_icons=true&theme=dark&locale=en&layout=compact" alt="chenak-a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenak-a&show_icons=true&theme=dark&locale=en" alt="chenak-a" /></p>
