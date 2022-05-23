@@ -19,7 +19,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-ch-422454233/)
  <a href = "mailto:abc@example.com?subject = Feedback&body = Message">
- [![Documentation Status](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](chenak.alaa1@gmail.com)
+ <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic"/>
  </a>
 
 
