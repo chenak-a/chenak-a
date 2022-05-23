@@ -2,6 +2,7 @@
 ![MasterHead](https://debarshiray.files.wordpress.com/2021/11/toolbox-power-up-wide-1.gif)
 <h1 align="center">Hi 👋</h1>
 <h3 align="left"> My name is Chenak, I’m a software developer/DevOps engineer from Montreal Canada </h3>
+  
 
 - 🔭 I’m currently working on [CryptoStoreAI](https://github.com/chenak-a/CryptoStoreAI)
 
@@ -11,14 +12,16 @@
 
 - 📫 How to reach me **chenak.alaa1@gmail.com**
 
-- 📄 Know about my experiences [https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8](https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8)
+
+- 📄 Know about my experiences [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8)
 
 - ⚡ let's have some fun **...**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chenak-ch-422454233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chenak-ch-422454233/" height="30" width="40" /></a>
-</p>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/chenak-ch-422454233/))
+ 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
