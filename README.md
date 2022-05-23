@@ -62,7 +62,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 <h3 align="left"> 📈 Analytics : </h3>
 <p><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenak-a&show_icons=true&theme=dark&locale=en&layout=compact" alt="chenak-a" /></a>
-<a >&nbsp;<img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=chenak-a&show_icons=true&theme=dark&locale=en" alt="chenak-a" /></a>
+<a >&nbsp;<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=chenak-a&show_icons=true&theme=dark&locale=en" alt="chenak-a" /></a>
 </p>
 
 
