@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/chenak-ch-422454233/))
+ [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-ch-422454233/)
  
 
 
