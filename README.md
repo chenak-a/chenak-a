@@ -1,8 +1,8 @@
 ![MasterHead](https://debarshiray.files.wordpress.com/2021/11/toolbox-power-up-wide-1.gif)
 <h1 align="center">Hi 👋</h1>
 <h3 align="left">
-  My name is Chenak, I’m a software developer/DevOps engineer from Montreal
-  Canada
+  My name is Chenak, I’m a software developer/DevOps engineer
+
 </h3>
 
 - 🔭 I’m currently working on
