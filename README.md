@@ -12,7 +12,7 @@
 - 📄 Know about my
 experiences [![Documentation
 Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8)
-- 🐱‍💻  let's have some fun **...**
+- 🏖 let's have some fun **...**
 
 <h3 align="left">📫 How to reach me:</h3>
 
