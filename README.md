@@ -8,10 +8,7 @@
 - 🔭 I’m currently working on
 [CryptoStoreAI](https://github.com/chenak-a/CryptoStoreAI) 
 - 🌱 I’m currently learning **Kubernetes** 
-- 💬 Ask me about **C++ , python** 
-- 📄 Know about my
-experiences [![Documentation
-Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://gateway.pinata.cloud/ipfs/QmXy1meFnzrozrsSRrmaZTQtycJRv1G6ypTEnH84EMt6W8)
+- 💬 Ask me about **C++ && python** 
 - 🏖 let's have some fun **...**
 
 <h3 align="left">📫 How to reach me:</h3>
