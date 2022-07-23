@@ -22,18 +22,19 @@ Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logo
 </a>
 
 <h3 align="left">📈 Analytics :</h3>
-<p>
-  <a
+
+<table>
+  <td
     ><img
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=chenak-a&show_icons=true&theme=dark&locale=en&layout=compact"
       alt="chenak-a"
-  /></a>
-  <a
+  /></td>
+  <td
     >&nbsp;<img
       width="450"
       align="right"
       src="https://github-readme-stats.vercel.app/api?username=chenak-a&show_icons=true&theme=dark&locale=en"
       alt="chenak-a"
-  /></a>
-</p>
+  /></td>
+</table>
