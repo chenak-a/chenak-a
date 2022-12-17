@@ -14,7 +14,7 @@
 <h3 align="left">📫 How to reach me:</h3>
 
 [![Linkedin
-Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-ch-422454233/)
+Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-alaa-eddine-422454233/)
 <a href="mailto:abc@example.com?subject = Feedback&body = Message">
   <img
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic"
