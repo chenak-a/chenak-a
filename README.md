@@ -1,15 +1,9 @@
 ![MasterHead](https://debarshiray.files.wordpress.com/2021/11/toolbox-power-up-wide-1.gif)
 <h1 align="center">Hi 👋</h1>
 <h3 align="left">
-  My name is Chenak, I’m a software developer/DevOps engineer
-
 </h3>
 
-- 🔭 I’m currently working on
-[CryptoStoreAI](https://github.com/chenak-a/CryptoStoreAI) 
-- 🌱 I’m currently learning **Kubernetes** 
-- 💬 Ask me about **C++ && python** 
-- 🏖 let's have some fun **...**
+🛠️ Building solutions, one line of code at a time innovation never sleeps! 🌟
 
 <h3 align="left">📫 How to reach me:</h3>
 
