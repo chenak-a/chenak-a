@@ -3,7 +3,7 @@
 <h3 align="left">
 </h3>
 
-🛠️ Building solutions, one line of code at a time innovation never sleeps! 🌟
+🛠️ Building solutions, one line of code at a time innovation never sleeps!
 
 <h3 align="left">📈 Analytics :</h3>
 
