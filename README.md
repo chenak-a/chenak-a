@@ -5,16 +5,6 @@
 
 🛠️ Building solutions, one line of code at a time innovation never sleeps! 🌟
 
-<h3 align="left">📫 How to reach me:</h3>
-
-[![Linkedin
-Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenak-alaa-eddine-422454233/)
-<a href="mailto:abc@example.com?subject = Feedback&body = Message">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic"
-  />
-</a>
-
 <h3 align="left">📈 Analytics :</h3>
 
 <table>
